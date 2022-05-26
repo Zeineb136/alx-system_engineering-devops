@@ -1,3 +1,2 @@
 #!/bin/bash
-chown -R vincent ./samplefolder/ 
-chgrp  -R staff  ./samplefolder/
+chown vincent:staff *
